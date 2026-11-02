@@ -1,0 +1,23 @@
+
+# Environnement virtuel Python
+.venv/
+
+# Configuration locale PyCharm
+.idea/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Clés API et variables d'environnement
+.env
+.env.*
+
+# Documents confidentiels du site
+data/
+
+# Base vectorielle locale
+chroma_db/
+
+# Fichiers temporaires
+*.log
